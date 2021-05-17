@@ -38,4 +38,15 @@ Installing with conda:
 <!-- EXAMPLES -->
 ## Examples
 
-![alt text](https://github.com/j584lee98/dataviz/blob/main/images/basic.png)
+#### Pairplot of "tips" dataset (Total bill vs. Tip vs. Group size)
+![alt text](https://github.com/j584lee98/dataviz/blob/main/seaborn/distribution/images/pairplot_hue.png)
+
+---
+
+#### Swarmplot of "penguins" dataset (On penguin species with M/F hue split)
+![alt text](https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/swarmplot_hue_split.png)
+
+---
+
+#### Heatmap of "flights" dataset (Total passengers at specific months)
+![alt text](https://github.com/j584lee98/dataviz/blob/main/seaborn/matrix/images/heatmap_coolwarm.png)
