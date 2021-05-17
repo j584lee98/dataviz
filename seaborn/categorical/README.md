@@ -31,3 +31,22 @@
 
 #### Split Swarmplot with Hue (M/F)
 <img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/swarmplot_hue_split.png" width=250/>
+
+### Boxplot
+
+#### Default Boxplot
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/boxplot.png" width=250/>
+
+#### Boxplot with Hue (M/F)
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/boxplot_hue.png" width=250/>
+
+### Violinplot
+
+#### Default Violinplot
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/violinplot.png" width=250/>
+
+#### Violinplot with Hue (M/F)
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/violinplot_hue.png" width=250/>
+
+#### Split Violinplot with Hue (M/F)
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/violinplot_hue_split.png" width=250/>
