@@ -31,7 +31,7 @@
 ### Pairplot
 
 #### Default pairplot
-<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/pairplot.png" width=250/>
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/pairplot.png" width=500/>
 
 #### Pairplot + Hue
-<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/pairplot_hue.png" width=250/>
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/pairplot_hue.png" width=500/>
