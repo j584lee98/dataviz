@@ -5,8 +5,6 @@ tips = sns.load_dataset('tips')
 
 sns.pairplot(data=tips)
 
-plt.show()
-
-sns.pairplot(data=tips, hue="sex")
+sns.pairplot(data=tips, hue="sex") # pairplot + hue
 
 plt.show()
