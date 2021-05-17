@@ -27,3 +27,11 @@
 
 #### Kernel Density Estimate (KDE) with Hue(Sex)
 <img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/jointsexkde.png" width=250/></td>
+
+### Pairplot
+
+#### Default pairplot
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/pairplot.png" width=250/>
+
+#### Pairplot + Hue
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/images/pairplot_hue.png" width=250/>
