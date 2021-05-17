@@ -50,3 +50,19 @@
 
 #### Split Violinplot with Hue (M/F)
 <img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/violinplot_hue_split.png" width=250/>
+
+### Barplot
+
+#### Default Barplot
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/barplot.png" width=250/>
+
+#### Barplot with Hue (M/F)
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/barplot_hue.png" width=250/>
+
+### Countplot
+
+#### Default Countplot
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/countplot.png" width=250/>
+
+#### Countplot with Hue (M/F)
+<img src="https://github.com/j584lee98/dataviz/blob/main/seaborn/categorical/images/countplot_hue.png" width=250/>
